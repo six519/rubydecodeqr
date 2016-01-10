@@ -18,7 +18,7 @@ Installing
 ==========
 ::
 
-    gem install pydecodeqr
+    gem install rubydecodeqr
 
 Ruby Sample Usage
 =================
